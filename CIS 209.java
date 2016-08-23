@@ -35,3 +35,4 @@ Class #/Date/Info
 
 Class 1: Aug. 22, 2016
 
+Can I edit this here???
